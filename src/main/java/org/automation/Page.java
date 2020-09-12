@@ -1,5 +1,4 @@
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+package org.automation;
 
 public class Page implements Visible {
 
